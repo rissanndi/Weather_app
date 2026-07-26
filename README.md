@@ -1,6 +1,6 @@
-# Welcome to your Expo app 👋
+# Weather App 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A simple weather application built with React Native and Expo. This project was bootstrapped with `create-expo-app`.
 
 ## Get started
 
